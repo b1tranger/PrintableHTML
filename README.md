@@ -1,4 +1,4 @@
-# Printable HTML Pages
+# [Printable HTML Pages](https://github.com/b1tranger/PrintableHTML)
 Modified HTML pages to be processed by PDFcrowd Extension so I can make PDF out of them : (
 
 
