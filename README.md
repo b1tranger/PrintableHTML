@@ -7,8 +7,9 @@ This Extension: [https://chromewebstore.google.com/detail/save-as-pdf/kpdjmbiefa
 # Copy path to URL
 append after `https://b1tranger.github.io/modPagesForPDFcrowd/`
 
-- Roadmap.sh/AI Tutor.html
-- Todoist/Time Blocking - Your Complete Guide to More Focused Work.html
+- Topic/Guide/Roadmap.sh/AI Tutor.html
+- Topic/Time-Management/Todoist/Time Blocking - Your Complete Guide to More Focused Work.html
+- Topic/Content/Blogging or Vlogging_ Which is the Right Option For You_ — Zulie Writes.html
 
 
 
