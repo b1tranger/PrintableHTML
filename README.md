@@ -12,8 +12,8 @@ append after `https://b1tranger.github.io/modPagesForPDFcrowd/`
 
 
 
-# Visual
-Using the Extension in some pages like this one with side columns ( unneeded parts for reading ) will wither break the PDF or not load at all.
+# Explanation 
+Using the Extension in some pages like this one with side columns ( unneeded parts for reading ) will either break the PDF or not load at all.
 
 Example page:
 
