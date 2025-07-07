@@ -10,6 +10,7 @@ append after `https://b1tranger.github.io/modPagesForPDFcrowd/`
 - Topic/Guide/Roadmap.sh/AI Tutor.html
 - Topic/Time-Management/Todoist/Time Blocking - Your Complete Guide to More Focused Work.html
 - Topic/Content/Blogging or Vlogging_ Which is the Right Option For You_ — Zulie Writes.html
+- Topic/Guide/freecodecamp/Essential JavaScript Concepts to Know Before Learning React – With Code Examples.html
 
 
 
