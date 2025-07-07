@@ -41,4 +41,7 @@ Only after making it available online I can made PDFs using the extension.
 
 ![image](https://github.com/user-attachments/assets/f52b4a56-8bfe-4969-8467-26cfa487e494)
 
+temp PDF: [[paper] Linux a Portable Operating System Linus Torvalds.pdf](https://github.com/user-attachments/files/21110553/paper.Linux.a.Portable.Operating.System.Linus.Torvalds.pdf)
+
+
 
