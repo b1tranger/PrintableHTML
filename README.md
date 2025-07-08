@@ -1,5 +1,5 @@
 # Printable HTML Pages [🔗](https://github.com/b1tranger/PrintableHTML)
-Modified HTML pages to be processed by PDFcrowd Extension so I can make PDF out of them : (
+Modified HTML pages to be processed by PDFcrowd Extension so I can make PDF out of them : &#40;
 
 
 This Extension: [https://chromewebstore.google.com/detail/save-as-pdf/kpdjmbiefanbdgnkcikhllpmjnnllbbc](https://chromewebstore.google.com/detail/save-as-pdf/kpdjmbiefanbdgnkcikhllpmjnnllbbc) <-- [https://pdfcrowd.com/](https://pdfcrowd.com/)
