@@ -14,6 +14,7 @@ append after `https://b1tranger.github.io/modPagesForPDFcrowd/`
 - Topic/Courses/Ostad - Web Dev/Full Stack Web Development with JavaScript (MERN) _ Ostad.html
 - Topic/Definitions/Software/Feature Flags 101_ Use Cases, Benefits, and Best Practices _ LaunchDarkly.html
 - Topic/Content/Game Dev/1. meta horizon/Must-Have Tools for Building Your Favorite Genre in Worlds _ Meta Horizon OS Developers.html
+- Topic/Documentation/CodeBlocks/CodeBlocks User Manual.html
 
 
 
